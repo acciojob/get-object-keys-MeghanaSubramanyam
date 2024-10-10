@@ -4,5 +4,5 @@ let student={
 	name:"megha"
 };
 Object.prototype.getKeys=function(){
-	return Object.keys()
+	return Object.keys(this)
 }
