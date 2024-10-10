@@ -1,6 +1,6 @@
 //your JS code here. If required.
 //your JS code here. If required.
-let student={
+const student={
 	name:"megha"
 };
 Object.prototype.getKeys=function(){
